@@ -2,4 +2,4 @@
 Reposi tório  criado para Desafio de Projeto  Git/Github.
 
 ## LINKS ÚTEIS 
-[Download Git] (https://git-scm.com/)
+[Sintaxe básica Markdown] (https://www.markdownguide.org/getting-started/)
