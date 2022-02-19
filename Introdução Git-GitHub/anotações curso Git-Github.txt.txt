@@ -1,0 +1,35 @@
+Link para download: https://git-scm.com/
+
+Tópicos Fundamentais:
+1-SHA1
+2-Objetos fundamentais
+3-Sistema dístribuido
+4-Segurança
+
+1-SHA1 é um conjunto de funções hash criptográficas projetadas
+pela NSA.
+*A encriptação gera um conjunto de caracteres identificadores 
+de 40 dígitos*
+*código: openssl/sha1*
+2-Objetos Fundamentais
+-BLOB: bloco básico de composição
+-TREES: armazenando e apontando para o BLOB
+-COMMITS: junta, aponta tudo
+
+Primeiros Comandos com Git
+
+-criando um commit:
+ -git init: iniciar repositório
+ -git add: mover arquivos
+ -git commit: criar commit
+
+Tracked e Untracked
+ -unmodified,modified e staged
+-Servidor: remote repository
+-Ambiente de Desenvolvimento: working directory, staging area
+e local repository
+*git status: monitorar status dos arquivos
+*git add nomeArquivo git add * ou .
+*git commit -m "msg..."
+*git push: empurrar
+*git pull: puxar
